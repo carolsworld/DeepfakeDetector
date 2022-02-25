@@ -1,2 +1,2 @@
 # DeepfakeDetector
-Code repositories for UFCF9Y-60-M - CSCT masters project
+Code repositories and report for UFCF9Y-60-M - CSCT masters project
